@@ -31,7 +31,12 @@ function createMain() {
             new StringSelectMenuOptionBuilder()
                 .setLabel('Delete Config')
                 .setValue('delete_config')
-                .setDescription('Delete the configuration')
+                .setDescription('Delete the configuration'),
+                
+            new StringSelectMenuOptionBuilder()
+                .setLabel('Status Post')
+                .setValue('status_post')
+                .setDescription('Status post')
         );
 
     return new ActionRowBuilder().addComponents(select);
