@@ -76,7 +76,7 @@ When adding or editing an account, you'll need to provide:
 ## Author
 
 Rvnaa (owner)
-Kamizuru (skid developer)
+Kamizuruv (skid developer)
 
 ## License
 
